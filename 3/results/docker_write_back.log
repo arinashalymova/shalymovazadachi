@@ -1,0 +1,58 @@
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "PUT /items/234 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "PUT /items/178 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "GET /items/412 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "PUT /items/89 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "PUT /items/467 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "PUT /items/321 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "GET /items/98 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "PUT /items/156 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "PUT /items/423 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "PUT /items/267 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "PUT /items/391 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "PUT /items/145 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "GET /items/278 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "PUT /items/492 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "PUT /items/334 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "PUT /items/201 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "PUT /items/78 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "GET /items/456 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "PUT /items/312 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "PUT /items/189 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "PUT /items/445 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "PUT /items/67 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "GET /items/223 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "PUT /items/378 HTTP/1.1" 200 OK
+cache-bench-write-back  | 2026-05-16 18:42:37,821 [INFO] strategies.write_back: Flushed 50 dirty items to database
+cache-bench-write-back  | 2026-05-16 18:42:37,821 [INFO] strategies.write_back: Auto-flush completed: 50 items (interval: 2.0s)
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "PUT /items/256 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "PUT /items/134 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "PUT /items/489 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "GET /items/367 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "PUT /items/92 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "PUT /items/401 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "PUT /items/245 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "PUT /items/178 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "PUT /items/356 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "PUT /items/123 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "GET /items/478 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "PUT /items/289 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "PUT /items/56 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "PUT /items/412 HTTP/1.1" 200 OK
+cache-bench-write-back  | 2026-05-16 18:42:39,872 [INFO] strategies.write_back: Flushed 50 dirty items to database
+cache-bench-write-back  | 2026-05-16 18:42:39,873 [INFO] strategies.write_back: Auto-flush completed: 50 items (interval: 2.0s)
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "PUT /items/334 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "PUT /items/201 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "GET /items/167 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "PUT /items/445 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "PUT /items/78 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "PUT /items/312 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "PUT /items/189 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "GET /items/456 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "PUT /items/267 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "PUT /items/391 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "PUT /items/145 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:38921 - "PUT /items/234 HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:51203 - "GET /items/89 HTTP/1.1" 200 OK
+cache-bench-write-back  | 2026-05-16 18:42:40,124 [INFO] strategies.write_back: Flushed 50 dirty items to database
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "POST /admin/flush HTTP/1.1" 200 OK
+cache-bench-write-back  | INFO:     151.101.128.223:42156 - "GET /metrics HTTP/1.1" 200 OK
